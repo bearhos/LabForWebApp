@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0GzZAJhxrDF6CaA1yeUgSOMjX1DS3/jq7L+X92W9+yiVryCBHEg7cDTd9eCV+iupvdjjHPlI9lTG+QVK8/y+OA==",
+  "dgSpecHash": "wbBz3wGppTbyMy9a8h4t38D301nFqxnzPiZAUadfIvvOpIvEOHbHPAlgYa3WRSB3VzR4xUODhkcEEt9gf8wPoA==",
   "success": true,
-  "projectFilePath": "/Users/paul/Projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "/Users/paul/Desktop/LabForWebApp/MvcMovie/MvcMovie.csproj",
   "expectedPackageFiles": [
     "/Users/paul/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/paul/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
